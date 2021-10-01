@@ -1,6 +1,6 @@
 # Search Music By Artist
 
-In this a React project that connects to the iTunes connect API to retrieve songs for a searched term(Artist name). The result, which is shown in grid format, consist of the following features:
+This is a React project that connects to the iTunes connect API to retrieve songs for a searched term(Artist name). The result, which is shown in grid format, consist of the following features:
 * Shows artist name.
 * Shows Track name.
 * Shows Collection name where the track belongs.
