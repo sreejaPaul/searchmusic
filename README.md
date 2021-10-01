@@ -10,5 +10,5 @@ This is a React project that connects to the iTunes connect API to retrieve song
 * A link to download the track preview.
 * A link to the track.
 
-# Watch Live
+## Watch Live
 Live Demo - [Click Here!](https://searchartist.herokuapp.com/)
