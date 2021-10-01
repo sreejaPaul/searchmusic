@@ -1,0 +1,109 @@
+#trackimage{
+    width: 130px;
+    height: 130px;
+    padding: 41px;
+    margin: 15px;
+}
+#carddiv{
+    background-color:  #EEFBCF;
+    
+}
+#picturediv{
+    float: left;
+}
+#contentdiv{
+    float:left;
+    margin: 20px;
+    width: 600px;
+}
+
+#btndiv{
+    float:left;
+    width: 150px;
+}
+.resultbtn{ 
+    margin: 10px 30px 10px 10px;
+    width: 130px;
+    height: 80px;
+    background-color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+#moreartist{
+    margin: 20px 0px 5px 0px;
+    padding: 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 500px;
+    background-color: white;
+}
+
+.contentvalue{
+    display: inline-block;
+    color:grey;
+    margin-left: 15px;
+}
+
+
+
+@media only screen and (max-device-width: 770px){
+    #trackimage{
+        width: 130px;
+        height: 130px;
+        padding: 41px;
+        margin-left: 220px;
+    }       
+    #carddiv{
+        width: 670px;
+        
+    }
+    #contentdiv{       
+        margin: 15px;
+        width: 632px;
+    }   
+    #btndiv{
+        height: 120px;
+        width: 700px;
+        margin-left: 22px;
+    }
+    .resultbtn{ 
+        margin-left: 20px;
+        width: 141px;
+        height: 50px;
+    }
+    #moreartist{
+        margin-left: 35px;
+    }
+    
+}
+
+@media only screen and (max-device-width: 440px){
+    #trackimage{
+        width: 130px;
+        height: 130px;
+        padding: 41px;
+        margin-left: 220px;
+    }       
+    #carddiv{
+        width: 690px;
+        
+    }
+    #contentdiv{       
+        margin: 15px;
+        width: 641px;
+    }   
+    #btndiv{
+        height: 120px;
+        width: 741px;
+        margin-left: 32px;
+    }
+    .resultbtn{ 
+        margin-left: 24px;
+        width: 141px;
+        height: 50px;
+    }
+    #moreartist{
+        margin-left: 52px;
+    }
+
+}

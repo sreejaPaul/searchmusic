@@ -1,0 +1,20 @@
+.divstyle{
+    margin-top: 210px;
+    margin-left: 210px;
+}
+
+
+@media only screen and (max-device-width: 770px){
+    .divstyle{
+        margin-left: 40px;
+        margin-right: 40px;
+    }
+}
+
+@media only screen and (max-device-width: 440px){
+    .divstyle{
+        margin-left: 40px;
+        margin-right: 40px;
+    }
+
+}
